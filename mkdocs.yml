@@ -34,8 +34,8 @@ nav:
         - LaTeX Math Support: Features/LaTeX Math Support.md
         - Mermaid diagrams: Features/Mermaid Diagrams.md
         - Text Formatting: Features/Text Formatting.md
-    - Topic 1: Topic 1/Topic1.md
-#        - Topic 1/index.md
+    - Topic 1: 
+        - Topic 1/index.md
         - Note 1: Topic 1/Note 1.md
         - Note 2: Topic 1/Note 2.md
 
