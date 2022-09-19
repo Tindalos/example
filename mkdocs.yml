@@ -27,8 +27,7 @@ features:
     - navigation.indexes
 
 nav:
-    - Obsidian Notes:
-        - docs/index.md
+    - Obsidian Notes: docs/index.md
     - Features:
         - docs/Features/index.md
         - LaTeX Math Support: docs/Features/LaTeX Math Support.md
