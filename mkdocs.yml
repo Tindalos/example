@@ -22,9 +22,9 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
         
-features:
-    - navigation.sections
-    - navigation.indexes
+    features:
+        - navigation.sections
+        - navigation.indexes
 
 nav:
     - Obsidian Notes: docs/index.md
