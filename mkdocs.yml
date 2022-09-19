@@ -1,4 +1,5 @@
 site_name: obsidian-mkdocs template
+site_url: https://github.com/tindalos/example/docs
 
 theme:
     name: 'material'
@@ -27,16 +28,16 @@ theme:
         - navigation.indexes
 
 nav:
-    - Obsidian Notes: docs/index.md
+    - Obsidian Notes: index.md
     - Features:
-        - docs/Features/index.md
-        - LaTeX Math Support: docs/Features/LaTeX Math Support.md
-        - Mermaid diagrams: docs/Features/Mermaid Diagrams.md
-        - Text Formatting: docs/Features/Text Formatting.md
+        - Features/index.md
+        - LaTeX Math Support: Features/LaTeX Math Support.md
+        - Mermaid diagrams: Features/Mermaid Diagrams.md
+        - Text Formatting: Features/Text Formatting.md
     - Topic 1:
-        - docs/Topic 1/index.md
-        - Note 1: docs/Topic 1/Note 1.md
-        - Note 2: docs/Topic 1/Note 2.md
+        - Topic 1/index.md
+        - Note 1: Topic 1/Note 1.md
+        - Note 2: Topic 1/Note 2.md
 
 # Extensions
 markdown_extensions:
