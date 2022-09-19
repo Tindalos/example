@@ -26,6 +26,19 @@ features:
     - navigation.sections
     - navigation.indexes
 
+nav:
+    - Obsidian Notes:
+        - docs/index.md
+    - Features:
+        - docs/Features/index.md
+        - LaTeX Math Support: docs/Features/LaTeX Math Support.md
+        - Mermaid diagrams: docs/Features/Mermaid Diagrams.md
+        - Text Formatting: docs/Features/Text Formatting.md
+    - Topic 1:
+        - docs/Topic 1/index.md
+        - Note 1: docs/Topic 1/Note 1.md
+        - Note 2: docs/Topic 1/Note 2.md
+
 # Extensions
 markdown_extensions:
   - footnotes
