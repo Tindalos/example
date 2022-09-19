@@ -1,1 +1,0 @@
-This is a Topic1 version of an index page.
